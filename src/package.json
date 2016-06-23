@@ -1,0 +1,25 @@
+{
+  "name": "rplay-yt",
+  "version": "1.0.0",
+  "description": "React player for Youtube videos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifahrentholz/rplay-yt.git"
+  },
+  "keywords": [
+    "React",
+    "Video",
+    "Player",
+    "Youtube"
+  ],
+  "author": "Ingo Fahrentholz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifahrentholz/rplay-yt/issues"
+  },
+  "homepage": "https://github.com/ifahrentholz/rplay-yt#readme"
+}
